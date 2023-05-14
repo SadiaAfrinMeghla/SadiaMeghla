@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=000000&lines=Excellence+is+not+being+the+best,;+It+is+doing+the+best.)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 🙋, I'm Sadia Afrin.You can call me Meghla as well</h1>
 <h3 align="center">Visionary SQA Engineer to plan concepts for developing variety of projects</h3>
